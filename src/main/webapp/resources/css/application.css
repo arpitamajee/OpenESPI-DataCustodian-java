@@ -234,33 +234,33 @@ a {
 }
 
 .nav .icon-home {
-	background: url("../../images/navigation/home.png") no-repeat;
+	background: url("../images/navigation/home.png") no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-cmd {
-	background: url("../../images/navigation/cmd.png") no-repeat;
+	background: url("../images/navigation/cmd.png") no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-dmd {
-	background: url("../../images/navigation/dmd.png") no-repeat;
+	background: url("../images/navigation/dmd.png") no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-feedback {
-	background: url("../../images/navigation/feedback.png") no-repeat;
+	background: url("../images/navigation/feedback.png") no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-home:hover {
-	background: #bd4045 url("../../images/navigation/home_active.png")
+	background: #bd4045 url("../images/navigation/home_active.png")
 		no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-cmd:hover {
-	background: #45ad9b url("../../images/navigation/cmd_active.png")
+	background: #45ad9b url("../images/navigation/cmd_active.png")
 		no-repeat;
 	padding-left: 23px;
 }
@@ -268,13 +268,13 @@ a {
 .nav .icon-dmd:hover {
 	color: #3f9c25;
 	border: 1px solid #3f9c25;
-	background: #ffffff url("../../images/navigation/dmd_active.png")
+	background: #ffffff url("../images/navigation/dmd_active.png")
 		no-repeat;
 	padding-left: 23px;
 }
 
 .nav .icon-feedback:hover {
-	background: #3399c9 url("../../images/navigation/feedback_active.png")
+	background: #3399c9 url("../images/navigation/feedback_active.png")
 		no-repeat;
 	padding-left: 23px;
 }
@@ -759,7 +759,7 @@ form,fieldset {
 }
 
 .list .name:after {
-	background: url(../../images/ico-name.png) no-repeat;
+	background: url(../images/ico-name.png) no-repeat;
 	width: 18px;
 	height: 16px;
 	overflow: hidden;
